@@ -29,4 +29,4 @@ class Solution(object):
         return rst
 
 
-print Solution().letterCombinations("23")
+print (Solution().letterCombinations("23"))
